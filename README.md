@@ -3,7 +3,6 @@
 This repository supports a research project that explores how **stochastic processes** (e.g., Hawkes processes, Markov chains, Poisson models) can be applied to **predict tweet virality**, integrating temporal engagement dynamics with machine learning techniques.
 
 > 🧠 Authored by **Rajan Shukla** | Missouri State University  
-> 📄 Full Paper: [`Stochastic_Modeling_Research.pdf`](./Stochastic_Modeling_Research.pdf)
 
 ---
 
